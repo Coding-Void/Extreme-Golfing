@@ -1,6 +1,6 @@
 # Extreme-Golfing
 
-This is a simple golf game where your goal is to complete each level without rage quitting or skipping the level. There are a total of six courses, with music for some of the levels. This game was made using Unity, which I started learning about a couple of months ago. Since I only know C# on Unity and Java on Neatbeans, I decided to make this short game for my submission. Please enjoy. :)
+This is a simple golf game where your goal is to complete each level without rage quitting or skipping the level. There are a total of six courses, with music for some of the levels. This game was made using Unity, which I started learning about a couple of months ago. Since I only know C# on Unity and Java on Neatbeans, I decided to make this short game for my submission. Please enjoy this short game. :)
 
 - All music, code, and visual assets in this game are created by me
 
