@@ -15,6 +15,6 @@ This is a simple golf game where your goal is to complete each level without rag
 1. Go to the main repository
 2. Click on the File "Builds"
 3. Click on the "Windows x86.zip" file
-4. Click on the "View Raw" Button. This will prompt you to save "Windows x86" to your computer.
+4. Click on the "View Raw" Button. This will prompt you to save "Windows x86" as a zipped file to your computer.
 5. Extrace all from the zipped file
-6. Click on the "EXTREME GOLFING" application
+6. Click on the "EXTREME GOLFING" application from the unzipped "Windows x86" folder
