@@ -6,6 +6,15 @@ This is a simple golf game where your goal is to complete each level without rag
 
 ***Requirements For Download***
 
-- Must be on Windows (I am not sure if Mac will work, but windows definetly will)
+- Must be on Windows
 - You do not need a specific resolution, the game's window will automatically set itself to 2/3 of a (1920x1080) resolution anyway, so as long as your screen is big enough to fit the width you should be fine
 - Around a little less than 100 MB of data for download
+
+***How to Download The Application***
+
+1. Go to the main repository
+2. Click on the File "Builds"
+3. Click on the "Windows x86.zip" file
+4. Click on the "View Raw" Button. This will prompt you to save "Windows x86" as a zipped file to your computer.
+5. Extrace all from the zipped file
+6. Click on the "EXTREME GOLFING" application from the unzipped "Windows x86" folder
