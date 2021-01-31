@@ -6,7 +6,7 @@ This is a simple golf game where your goal is to complete each level without rag
 
 ***Requirements For Download***
 
-- Must be on Windows
+- Must be on Windows (I honestly do not know if this will work on a Mac or not, but feel free to try to do so. It should work on Windows)
 - You do not need a specific resolution, the game's window will automatically set itself to 2/3 of a (1920x1080) resolution anyway, so as long as your screen is big enough to fit the width you should be fine
 - Around a little less than 100 MB of data for download
 
